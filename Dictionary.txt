@@ -1,0 +1,9 @@
+1|apple|사과
+1|banana|바나나
+2|kiwi|키위
+3|graceful|우아한
+1|driveway|차량진입로
+1|discard|버리다
+3|crouch|쪼그리고 앉다
+2|proclaim|공언하다, 선포하다
+1|reputation|평판, 명성
